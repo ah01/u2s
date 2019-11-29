@@ -1,7 +1,7 @@
 # USB To Serial Convertor Board
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ah01/u2s/master/doc/photo.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/photo.jpg" width="400" />
 </p>
 
 ## Features
@@ -16,7 +16,7 @@
 ## Connector
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ah01/u2s/master/doc/pinout.png" />
+<img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/pinout.png" />
 </p>
 
 | Pin | Dir. | Description |
@@ -38,12 +38,12 @@
 
 ## PCB
 
-- [Schematics](https://raw.githubusercontent.com/ah01/u2s/master/doc/usb-to-serial.png) ([PDF](https://raw.githubusercontent.com/ah01/u2s/master/doc/usb-to-serial.pdf))
+- [Schematics](https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial.png) ([PDF](https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial.pdf))
 - [Sources for Eagle CAD](pcb)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ah01/u2s/master/doc/usb-to-serial_top.png" width="280" /> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/ah01/u2s/master/doc/usb-to-serial_bot.png" width="280" />
+<img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial_top.png" width="280" /> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial_bot.png" width="280" />
 </p>
 
 ## FTDI Template
