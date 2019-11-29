@@ -40,7 +40,7 @@
 
 - [Schematics](https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial.png) ([PDF](https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial.pdf))
 - [Sources for Eagle CAD](pcb)
-- [Interactive BOM](https://ah01.github.io/u2s/ibom/ibom.html)
+- **[Interactive BOM](https://ah01.github.io/u2s/ibom/ibom.html)** ([what is this](https://forums.autodesk.com/t5/eagle-forum/interactive-bom-for-eagle/td-p/8291710))
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial_top.png" width="280" /> &nbsp; &nbsp;
