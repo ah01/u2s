@@ -50,3 +50,7 @@
 ## FTDI Template
 
 For all PIN and LED functionality you need to configure FT231XS converter. There is template for [FT Prog](https://www.ftdichip.com/Support/Utilities.htm#FT_PROG) in [ft_prog directory](ft_prog).
+
+## Credits
+
+- [OK2UQL](https://twitter.com/ok2uqlGabo) - Case for 3D printing (see [tweet for example](https://twitter.com/ok2uqlGabo/status/1366835820972376068))
