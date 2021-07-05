@@ -1,7 +1,7 @@
 # USB To Serial Convertor Board
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/photo.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/Bastlirovo/u2s/master/docs/photo.jpg" width="400" />
 </p>
 
 ## Features
@@ -11,12 +11,12 @@
 - On board 3V3 regulator (500 mA)
 - Over current protection (suitable for development)
 - Connector with key (so you can make idiot-proof cables) but DuPont friendly
-- Both micro and mini USB connector (they are on opposite side of the board so you cannot use both in same time, but you will have more probability to find correct cable… you know Murphys Law)
+- Both micro and USB-C connector (they are on opposite side of the board so you cannot use both in same time, but you will have more probability to find correct cable… you know Murphys Law)
 
 ## Connector
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/pinout.png" />
+<img src="https://raw.githubusercontent.com/Bastlirovo/u2s/master/docs/pinout.png" />
 </p>
 
 | Pin | Dir. | Description |
@@ -38,13 +38,13 @@
 
 ## PCB
 
-- [Schematics](https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial.png) ([PDF](https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial.pdf))
+- [Schematics](https://raw.githubusercontent.com/Bastlirovo/u2s/master/docs/usb-to-serial.png) ([PDF](https://raw.githubusercontent.com/Bastlirovo/u2s/master/docs/usb-to-serial.pdf))
 - [Sources for Eagle CAD](pcb)
-- **[Interactive BOM](https://ah01.github.io/u2s/ibom/ibom.html)** ([what is this](https://forums.autodesk.com/t5/eagle-forum/interactive-bom-for-eagle/td-p/8291710))
+- **[Interactive BOM v1](https://ah01.github.io/u2s/ibom/ibom.html)** ([what is this](https://forums.autodesk.com/t5/eagle-forum/interactive-bom-for-eagle/td-p/8291710))
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial_top.png" width="280" /> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial_bot.png" width="280" />
+<img src="https://raw.githubusercontent.com/Bastlirovo/u2s/master/docs/usb-to-serial_top.png" width="280" /> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/Bastlirovo/u2s/master/docs/usb-to-serial_bot.png" width="280" />
 </p>
 
 ## FTDI Template
@@ -54,3 +54,4 @@ For all PIN and LED functionality you need to configure FT231XS converter. There
 ## Credits
 
 - [OK2UQL](https://twitter.com/ok2uqlGabo) - Case for 3D printing (see [tweet for example](https://twitter.com/ok2uqlGabo/status/1366835820972376068))
+- [Bastlir](https://twitter.com/bastlir) - Update of design to v2 - mini->USB-C connector, OverCurrent LED, other minor updates based on found issues
