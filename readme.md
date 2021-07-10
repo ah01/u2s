@@ -6,7 +6,7 @@
 
 ## Features
 
-- Reliable (no CH340 or FTDI232RL clones)
+- Reliable (no CH340 or FTDI232RL clones) – uses [FT231SX](https://ftdichip.com/products/ft231xs/) ([datasheet](https://ftdichip.com/wp-content/uploads/2020/08/DS_FT231X.pdf))
 - 3V3 logic but 5V tolerant (no switching needed)
 - On board 3V3 regulator (500 mA)
 - Over current protection (suitable for development)
@@ -40,16 +40,17 @@
 
 - [Schematics](https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial.png) ([PDF](https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial.pdf))
 - [Sources for Eagle CAD](pcb)
-- **[Interactive BOM](https://ah01.github.io/u2s/ibom/ibom.html)** - for V1 ([what is this](https://forums.autodesk.com/t5/eagle-forum/interactive-bom-for-eagle/td-p/8291710))
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial_top.png" width="280" /> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial_bot.png" width="280" />
 </p>
 
-## FTDI Template
+## _Erratum_ Swaped TX and RX leds (FTDI configuration template)
 
-For all PIN and LED functionality you need to configure FT231XS converter. There is template for [FT Prog](https://www.ftdichip.com/Support/Utilities.htm#FT_PROG) in [ft_prog directory](ft_prog).
+⚠ Labels on Tx and Rx LEDs are swaped ([explenation](ft_prog/readme.md))
+
+This problem can be fixed in SW configuration of FT231XS. There is template for [FT Prog](https://www.ftdichip.com/Support/Utilities.htm#FT_PROG) in [ft_prog directory](ft_prog).
 
 ## Credits
 
