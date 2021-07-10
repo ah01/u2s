@@ -62,9 +62,9 @@ There are two variants for 3D prontable case:
 <img src="https://raw.githubusercontent.com/ah01/u2s/master/3Dcase/no_holes/Case_no_hole.png" width="550" />
 </p>
 
-## _Erratum_ Swaped TX and RX leds (FTDI configuration template)
+## _Erratum_ Swapped TX and RX leds (FTDI configuration template)
 
-⚠ Labels on Tx and Rx LEDs are swaped ([explenation](ft_prog/readme.md))
+⚠ Labels on Tx and Rx LEDs are swapped ([explenation](ft_prog/readme.md))
 
 This problem can be fixed in SW configuration of FT231XS. There is template for [FT Prog](https://www.ftdichip.com/Support/Utilities.htm#FT_PROG) in [ft_prog directory](ft_prog).
 
