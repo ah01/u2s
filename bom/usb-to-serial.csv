@@ -1,21 +1,17 @@
-"Qty";"Value";"Device";"Package";"Parts";"Description";"OC_FARNELL";"OC_GME";"ON_FARNELL";"PROD_ID";"SF_ID";"SPICEPREFIX";"URL";"VALUE";
-"1";"";"JUMPER-SMT_3_1-NC_PASTE_NO-SILK";"SMT-JUMPER_3_1-NC_PASTE_NO-SILK";"JP1";"Normally closed solder jumper (1 of 2 connections)";"";"";"";"";"";"";"";"";
-"3";"";"LEDCHIP-LED0805";"CHIP-LED0805";"D2, D3, D4";"LED";"";"";"";"";"";"";"";"";
-"7";"100";"R-EU_R0603";"R0603";"R7, R8, R9, R10, R11, R12, R13";"RESISTOR, European symbol";"";"";"";"";"";"R";"";"";
-"2";"100nF";"C-EUC0603";"C0603";"C4, C6";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";"";
-"1";"10nF";"C-EUC0603";"C0603";"C1";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";"";
-"1";"1uF";"C-EUC0603";"C0603";"C5";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";"";
-"1";"2.2uF";"C-EUC0603";"C0603";"C7";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";"";
-"2";"27";"R-EU_R0603";"R0603";"R1, R2";"RESISTOR, European symbol";"";"";"";"";"";"R";"";"";
-"3";"270";"R-EU_R0603";"R0603";"R4, R5, R6";"RESISTOR, European symbol";"";"";"";"";"";"R";"";"";
-"2";"47pF";"C-EUC0603";"C0603";"C2, C3";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";"";
-"1";"BLM18PG221SN1D";"FERRITE_BEAD-0603";"0603";"L1";"Ferrite Bead (blocks, cores, rings, chokes, etc.)";"1515740";"";"BLM18PG221SN1D";"NDUC-07859";"";"";"";"30?/1.8A";
-"1";"CAT6219-330TDGT3";"CAT6219-330TDGT3";"TSOT23-5L";"IC3";"500 mA CMOS LDO Regulator";"2534233";"";"";"";"";"";"";"";
-"1";"EXT";"CONN_03";"1X03";"J3";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"XXX-00000";"";"";"";"455-1750-1-ND";
-"1";"FT231XS";"FT231XS";"SSOP20_L";"IC1";"FTDI FT231X Full Speed USB to Full-handshake UART";"";"";"";"IC-11524";"";"";"";"FT231XS";
-"2";"JUMPER-SMT_2_NO_NO-SILK";"JUMPER-SMT_2_NO_NO-SILK";"SMT-JUMPER_2_NO_NO-SILK";"JP2, JP3";"Normally open jumper";"";"";"";"";"";"";"";"";
-"1";"MICRO B";"USB_MICRO-B_FEMALE-SMT";"USB-B-MICRO-SMD";"J2";"USB Type Micro-B Connector";"";"";"";"CONN-11752";"";"";"";"";
-"1";"MINI B";"USB_MINI-B_SMT";"USB-MINIB";"J1";"USB type Mini-B Connector";"";"";"";"CONN-08193";"PRT-00587";"";"";"";
-"1";"MLW10G";"MLW10G";"MLW10G";"CON1";"Connector "Konektor pro ploché kabely do DPS pøímý, rozteè 2,54mm, 2x5 kontaktù." from GME.cz";"";"800-035";"";"";"";"";"https://www.gme.cz/konektor-mlw10g";"";
-"1";"STMPS2141STR";"STMPS2141STR";"SOT23-5";"IC2";"";"";"";"";"";"";"";"";"";
-"1";"TEST_POINT-1.5";"TEST_POINT-1.5";"TP_1.5MM";"TP1";"";"";"";"";"";"";"";"";"";
+Qty;Value;Device;Package;Parts;Description;OC_FARNELL;OC_GME;ON_FARNELL;POPULARITY;PROD_ID;SPICEPREFIX;URL;VALUE;PRICE
+4;;LEDCHIP-LED0805;CHIP-LED0805;D1, D2, D3, D4;LED;;;;68;;;https://cz.farnell.com/kingbright/kp-2012lsgc/led-green-0-8mcd-568nm-smd/dp/2463991;;16,00 Kè
+7;100;R-EU_R0603;R0603;R7, R8, R9, R10, R11, R12, R13;RESISTOR, European symbol;;;;70;;R;https://cz.farnell.com/multicomp/mcwr06x1000ftl/res-100r-1-0-1w-0603-thick-film/dp/2447227;;0,91 Kè
+3;100nF;C-EUC0603;C0603;C4, C6, C8;CAPACITOR, European symbol;;;;73;;C;https://cz.farnell.com/kemet/c0603c104m4ractu/cap-0-1-f-16v-20-x7r-0603/dp/2581045;;0,99 Kè
+1;10nF;C-EUC0603;C0603;C1;CAPACITOR, European symbol;;;;73;;C;https://cz.farnell.com/walsin/0603b103k500ct/cap-0-01-f-50v-10-x7r-0603/dp/2496828;;0,44 Kè
+2;1uF;C-EUC0603;C0603;C5, C7;CAPACITOR, European symbol;;;;73;;C;https://cz.farnell.com/samsung-electro-mechanics/cl10a105ka8nnnc/cap-1uf-25v-mlcc-0603/dp/3013382;;1,24 Kè
+2;27;R-EU_R0603;R0603;R1, R2;RESISTOR, European symbol;;;;70;;R;https://cz.farnell.com/multicomp/mcwr06x27r0ftl/res-27r-1-0-1w-0603-thick-film/dp/2447316;;0,32 Kè
+4;270;R-EU_R0603;R0603;R4, R5, R6, R16;RESISTOR, European symbol;;;;70;;R;https://cz.farnell.com/multicomp/mcwr06x2700ftl/res-270r-1-0-1w-thick-film/dp/2447314;;0,56 Kè
+2;47pF;C-EUC0603;C0603;C2, C3;CAPACITOR, European symbol;;;;73;;C;https://cz.farnell.com/yageo/cc0603jrnpo9bn470/cap-47pf-50v-5-c0g-np0-0603/dp/722042;;1,30 Kè
+2;5k1;R-EU_R0603;R0603;R14, R15;RESISTOR, European symbol;;;;70;;R;https://cz.farnell.com/multicomp/mcwr06x5101ftl/res-5k1-1-0-1w-0603-thick-film/dp/2447404;;0,30 Kè
+2;BLM18PG221SN1D;FERRITE_BEAD-0603;603;L1, R3;Ferrite Bead (blocks, cores, rings, chokes, etc.);1515740;;BLM18PG221SN1D;;NDUC-07859;;https://cz.farnell.com/murata/blm18pg221sn1d/ferrite-bead-0-1ohm-1-4a-0603/dp/1515740;;1,60 Kè
+1;FT231XS;FT231XS;SSOP20_L;IC1;FTDI FT231X Full Speed USB to Full-handshake UART;;;;;IC-11524;;https://cz.farnell.com/ftdi/ft231xs/i-f-usb2-0-fs-to-f-l-h-s-uart/dp/2081328;;57,99 Kè
+1;HRO_31_M_12_USB_C;HRO_31_M_12_USB_C;HRO_31_M_12_USB_C;J1;"USB Shielded I/O Receptacle; Type C; Right Angle; Surface Mount; Gold over Nickel";;;;;;;https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html;;10,00 Kè
+1;MICRO B;USB_MICRO-B_FEMALE-SMT;USB-B-MICRO-SMD;J2;USB Type Micro-B Connector;;;;;CONN-11752;;https://cz.farnell.com/amphenol-icc-fci/10104110-0001lf/micro-usb-2-0-type-b-receptacle/dp/2293753;;13,91 Kè
+1;MLW10G;MLW10G;MLW10G;CON1;Connector Konektor 2,54mm, 2x5 ;;800-035;;;;;https://cz.farnell.com/multicomp/mc-254-10-00-st-dip/connector-header-10pos-2row-2/dp/2843527;;4,52 Kè
+1;STMPS2141STR;STMPS2141STR;SOT23-5;IC2;;;;;;;;https://cz.farnell.com/stmicroelectronics/stmps2151str/power-switch-1ch-500ma-sot23-5/dp/1842616;;7,32 Kè
+1;XC6210B332MR;XC6210;SOT-23-5;IC3;;;;;;;;https://cz.farnell.com/torex/xc6210b332mr/ic-v-reg-cmos-ldo-3-3v-smd-6210/dp/1057803;;17,64 Kè
