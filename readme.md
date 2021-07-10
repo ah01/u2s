@@ -70,5 +70,5 @@ This problem can be fixed in SW configuration of FT231XS. There is template for 
 
 ## Credits
 
-- [OK2UQL](https://twitter.com/ok2uqlGabo) - Case for 3D printing (see [tweet for example](https://twitter.com/ok2uqlGabo/status/1366835820972376068))
-- [Bastlir](https://twitter.com/bastlir) - Update of design to v2 - mini->USB-C connector, OverCurrent LED, other minor updates based on found issues
+- [Bastlir](https://twitter.com/bastlir) - Update of design to v2 - USB-C connector, OverCurrent LED, other minor updates based on found issues, 3D case for V2
+- [OK2UQL](https://twitter.com/ok2uqlGabo) - Case for 3D printing (see [tweet for example](https://twitter.com/ok2uqlGabo/status/1366835820972376068)) (V1)
