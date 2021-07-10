@@ -46,6 +46,22 @@
 <img src="https://raw.githubusercontent.com/ah01/u2s/master/docs/usb-to-serial_bot.png" width="280" />
 </p>
 
+## 3D Case
+
+There are two variants for 3D prontable case:
+
+- [With window](3Dcase/with_holes) – connector pinout is visible via window in case)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ah01/u2s/master/3Dcase/with_holes/Case_with_holes.png" width="550" />
+</p>
+
+- [Without window](3Dcase/no_holes) – connector pinout should be printed at back side as sticker
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ah01/u2s/master/3Dcase/no_holes/Case_no_hole.png" width="550" />
+</p>
+
 ## _Erratum_ Swaped TX and RX leds (FTDI configuration template)
 
 ⚠ Labels on Tx and Rx LEDs are swaped ([explenation](ft_prog/readme.md))
